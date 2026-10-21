@@ -1,0 +1,13 @@
+parameter,prompt type,value 1,value 2,value 3,value 4
+temperature,factual,1.0,0.979,0.876,0.916
+temperature,json,0.998,0.906,0.897,0.873
+temperature,creative,0.635,0.166,0.115,0.106
+temperature,fake_entity,0.702,0.205,0.218,0.165
+top_k,factual,1.0,0.992,0.979,1.0
+top_k,json,1.0,0.921,0.874,0.875
+top_k,creative,1.0,0.132,0.163,0.133
+top_k,fake_entity,0.702,0.212,0.208,0.256
+top_p,factual,1.0,1.0,0.992,0.863
+top_p,json,1.0,0.918,0.917,0.861
+top_p,creative,1.0,0.308,0.145,0.115
+top_p,fake_entity,0.702,0.367,0.15,0.155

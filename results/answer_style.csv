@@ -1,0 +1,4 @@
+model,mean_len_creative,mean_len_fake_entity,json_in_code_fence,empty_answers,answers
+Gemma 4 (E2B),428.97,1133.31,0.0,0,288
+Llama 3.2 (3B),556.19,679.08,0.0,0,288
+Qwen 2.5 (3B),478.72,945.26,0.01,0,288

@@ -1,0 +1,7 @@
+model,prompt_id,lenient,strict,answers
+Gemma 4 (E2B),fake_1,0.0,0.028,36
+Gemma 4 (E2B),fake_2,0.417,0.417,36
+Llama 3.2 (3B),fake_1,0.0,0.0,36
+Llama 3.2 (3B),fake_2,0.639,0.667,36
+Qwen 2.5 (3B),fake_1,0.278,0.639,36
+Qwen 2.5 (3B),fake_2,0.306,0.306,36
