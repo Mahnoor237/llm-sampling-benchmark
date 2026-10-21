@@ -1,0 +1,1 @@
+Benchmarking LLM sampling parameters (Temperature, Top-K, Top-P) using Ollama and Python to evaluate output determinism, hallucination rates, and JSON validity across multiple local language models. Includes automated testing, CSV results, charts, and a PDF report.
